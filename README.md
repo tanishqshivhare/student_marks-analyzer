@@ -35,3 +35,11 @@ LANGUAGE
 
 PURPOSE:
 This project was created as part of my Python programming learning journey.
+
+FUTURE IMPROVEMENT
+
+~ Add better input validation
+
+~ Handle empty marks lists
+
+~ Improve the program's output
