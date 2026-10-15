@@ -43,3 +43,13 @@ FUTURE IMPROVEMENT
 ~ Handle empty marks lists
 
 ~ Improve the program's output
+
+WHAT I LEARNED
+
+~ Python fundamental 
+
+~ Creating my first Python project
+
+~ Using GitHub repositories and commits 
+
+~ Understanding changes with diffs
