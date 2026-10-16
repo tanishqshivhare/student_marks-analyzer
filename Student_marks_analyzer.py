@@ -1,5 +1,7 @@
 marks=[78,65,92,45,80] 
 marks.sort()
+
+# Initialize counters before processing marks
 total=0
 count=0
 pass_count=0
