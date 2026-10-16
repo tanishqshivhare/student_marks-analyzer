@@ -3,7 +3,7 @@ STUDENT MARKS ANALYZER
 My first Python project to analyze student marks and results.
 
 
-FEATURES
+## FEATURES
 
 ~ Stores student marks in a list 
 
@@ -16,7 +16,7 @@ FEATURES
 ~ Counts students who pass or fail
 
 
-CONCEPTS USED
+## CONCEPTS USED
 
 ~ Python lists 
 
@@ -29,14 +29,14 @@ CONCEPTS USED
 ~ Basic mathematical operations
 
 
-LANGUAGE
+## LANGUAGE
 
 ~ Python
 
-PURPOSE:
+## PURPOSE:
 This project was created as part of my Python programming learning journey.
 
-FUTURE IMPROVEMENT
+## FUTURE IMPROVEMENT
 
 ~ Add better input validation
 
@@ -44,7 +44,7 @@ FUTURE IMPROVEMENT
 
 ~ Improve the program's output
 
-WHAT I LEARNED
+## WHAT I LEARNED
 
 ~ Python fundamental 
 
@@ -53,3 +53,15 @@ WHAT I LEARNED
 ~ Using GitHub repositories and commits 
 
 ~ Understanding changes with diffs
+
+## What I Learned About GitHub
+
+~ How to create a repository.
+
+~ How to upload a Python project.
+
+~ How to write and improve a README file.
+
+~ How commits save a history of changes.
+
+~ How to read green and red lines in a diff.
